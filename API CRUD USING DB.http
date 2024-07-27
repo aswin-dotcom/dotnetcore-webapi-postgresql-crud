@@ -1,0 +1,14 @@
+@API CRUD USING DB_HostAddress = https://localhost:7040
+@API_CRUD_USING_DB_HostAddress = http://localhost:5194
+
+GET {{API_CRUD_USING_DB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+
+###
+
+GET {{API CRUD USING DB_HostAddress}}/weatherforecast
+
+###
